@@ -36,53 +36,37 @@ All pages use the following foundational layout structure:
 •	Full-width containers of sensible height for (1) page header area, (2) area for user specific navigation elements, (3) page footer area.
 •	Partial-width containers of the same height sensibly divided for (1) general site navigation and (2) main content area.
 
-<b> Page 1 – Home Page <b>
+<b> Page 1 – Home Page
 
 Common content elements described here (navigation, header, footer) also apply to the other pages:- 
-
 •	Logo / primary branding in the header 
-
 •	Placeholder for login name
-
 •	Breadcrumb for current place in site structure 
-
 •	Representative links for user-specific navigation (sign-in, my Meals, my swaps, cart) 
   o My Meals link provide navigation to user’s meals for swap page. 
-  
 •	Representative links for general site navigation (home, catalog, store, about, etc.)
   o	Categories link provide navigation to category page
 
 Page 2 – Categories Page
-
+-
 This page provides the following content / functionality in addition to common content:-
-
 •	All Categories of items 
-
 •	All items per category 
-
 •	All item listings link to the same item page.
-
 •	Representative footer information (copyright, etc.) 
 
 Page 3 – Item Detail
-
+-
 This page provides the following content / functionality in addition to common content:-
-
 •	Picture of item 
-
 •	Item highlights, including category and average rating 
-
 •	Item detail description 
-
 •	Button to add the item to items for swap list
 
 Page 4 – My Books
 
 This page provides the following content / functionality in addition to common content:-
-
 •	Main content container provides a table structure listing a representative item, rating average (stars > 0), and description. 
-
 •	“Update” button links to the “item” page.
-
 •	“Delete” button links back to the “myItems” page.
 
