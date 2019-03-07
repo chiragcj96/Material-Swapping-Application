@@ -43,7 +43,7 @@ Common content elements described here (navigation, header, footer) also apply t
 •	Placeholder for login name.<br>
 •	Breadcrumb for current place in site structure. <br>
 •	Representative links for user-specific navigation (sign-in, my Meals, my swaps, cart).<br> 
-  o My Meals link provide navigation to user’s meals for swap page. <br>
+  <pre>o My Meals link provide navigation to user’s meals for swap page.</pre> <br>
 •	Representative links for general site navigation (home, catalog, store, about, etc.).<br>
   o	Categories link provide navigation to category page.<br>
 
