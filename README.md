@@ -36,7 +36,7 @@ All pages use the following foundational layout structure:
 •	Full-width containers of sensible height for (1) page header area, (2) area for user specific navigation elements, (3) page footer area.
 •	Partial-width containers of the same height sensibly divided for (1) general site navigation and (2) main content area.
 
-<u> Page 1 – Home Page <u>
+<b> Page 1 – Home Page <b>
 
 Common content elements described here (navigation, header, footer) also apply to the other pages:- 
 
