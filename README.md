@@ -33,40 +33,40 @@ Here four HTML pages have been developed, according to the following specificati
 <b> Page Structure </b>
 
 All pages use the following foundational layout structure:<br>
-•	Full-width containers of sensible height for (1) page header area, (2) area for user specific navigation elements, (3) page footer area.
-•	Partial-width containers of the same height sensibly divided for (1) general site navigation and (2) main content area.
+•	Full-width containers of sensible height for (1) page header area, (2) area for user specific navigation elements, (3) page footer area.<br>
+•	Partial-width containers of the same height sensibly divided for (1) general site navigation and (2) main content area.<br>
 
 <b> Page 1 – Home Page </b>
 
-Common content elements described here (navigation, header, footer) also apply to the other pages:- 
-•	Logo / primary branding in the header. 
-•	Placeholder for login name.
-•	Breadcrumb for current place in site structure. 
-•	Representative links for user-specific navigation (sign-in, my Meals, my swaps, cart). 
-  o My Meals link provide navigation to user’s meals for swap page. 
-•	Representative links for general site navigation (home, catalog, store, about, etc.).
-  o	Categories link provide navigation to category page.
+Common content elements described here (navigation, header, footer) also apply to the other pages:- <br>
+•	Logo / primary branding in the header. <br>
+•	Placeholder for login name.<br>
+•	Breadcrumb for current place in site structure. <br>
+•	Representative links for user-specific navigation (sign-in, my Meals, my swaps, cart).<br> 
+  o My Meals link provide navigation to user’s meals for swap page. <br>
+•	Representative links for general site navigation (home, catalog, store, about, etc.).<br>
+  o	Categories link provide navigation to category page.<br>
 
 <b>Page 2 – Categories Page</b>
 
-This page provides the following content / functionality in addition to common content:-
-•	All Categories of items. 
-•	All items per category.
-•	All item listings link to the same item page.
-•	Representative footer information (copyright, etc.) 
+This page provides the following content / functionality in addition to common content:-<br>
+•	All Categories of items. <br>
+•	All items per category.<br>
+•	All item listings link to the same item page.<br>
+•	Representative footer information (copyright, etc.) <br>
 
 <b>Page 3 – Item Detail</b>
 
-This page provides the following content / functionality in addition to common content:-
-•	Picture of item. 
-•	Item highlights, including category and average rating. 
-•	Item detail description. 
-•	Button to add the item to items for swap list.
+This page provides the following content / functionality in addition to common content:-<br>
+•	Picture of item. <br>
+•	Item highlights, including category and average rating. <br>
+•	Item detail description. <br>
+•	Button to add the item to items for swap list.<br>
 
 <b>Page 4 – My Books</b>
 
-This page provides the following content / functionality in addition to common content:-
-•	Main content container provides a table structure listing a representative item, rating average (stars > 0), and description. 
-•	“Update” button links to the “item” page.
-•	“Delete” button links back to the “myItems” page.
+This page provides the following content / functionality in addition to common content:-<br>
+•	Main content container provides a table structure listing a representative item, rating average (stars > 0), and description. <br>
+•	“Update” button links to the “item” page.<br>
+•	“Delete” button links back to the “myItems” page.<br>
 
