@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Swap-o-meal</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <!--[if lt IE 9]>
+    <script>
+      document.createElement("article");
+      document.createElement("aside");
+      document.createElement("footer");
+      document.createElement("header");
+      document.createElement("main");
+      document.createElement("nav");
+      document.createElement("section");
+    </script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <header class="banner">
+      <img src="logo.png" alt="Swap-o-meal" height="100" width="100" class="myImage"/>
+      <span class="signin"> Not Signed In</span>
+      <br><h1>Swap-o-meal</h1>
+      <br><p>Swap your meals to enjoy various delicacies</p><br>
+    </header>
+
+    <nav>
+      <ul>
+        <li class="TopNav"><a href="">Sign In</a></li>
+        <li class="TopNav"><a href="myItems.html">My Meals</a></li>
+        <li class="TopNav"><a href="">My Swap</a></li>
+        <li class="TopNav"><a href="">Cart</a></li>
+      </ul>
+    </nav>
+
+    <main>
+      <section>
+        <h3>Chasrlotte's meal for swap</h3>
+        <br>
+        <table>
+          <caption><b>Summary of your Meals</b></caption>
+          <tr>
+            <th>Meal</th>
+            <th>Category</th>
+            <th>My Rating</th>
+            <th>Swapped</th>
+            <th>Update/Delete</th>
+          </tr>
+          <tr>
+            <td>Curry</td>
+            <td>India Delicacy</td>
+            <td><div class="rating"><span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div></td>
+            <td><img src="swapped.jpeg" alt="Swapped" height="28" width="28"></td>
+            <td><button onclick="location.href='item.html'" type="button" class="button">Update</button><button onclick="location.href='myItems.html'" class="button">Delete</button></td>
+          </tr>
+          <tr>
+            <td>Rice bowl</td>
+            <td>Lunch</td>
+            <td><div class="rating"><span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div></td>
+            <td><img src="swap.jpeg" alt="Swap" height="28" width="28"></td>
+            <td><button onclick="location.href='item.html'" type="button" class="button">Update</button><button onclick="location.href='myItems.html'" class="button">Delete</button></td>
+          </tr>
+          <tr>
+            <td>Noodles</td>
+            <td>Chinese Delicacy</td>
+            <td><div class="rating"><span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div></td>
+            <td></td>
+            <td><button onclick="location.href='item.html'" type="button" class="button">Update</button><button onclick="location.href='myItems.html'" class="button">Delete</button></td>
+          </tr>
+          <tr>
+            <td>Thai Curry</td>
+            <td>Thai Delicacy</td>
+            <td><div class="rating"><span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div></td>
+            <td></td>
+            <td><button onclick="location.href='item.html'" type="button" class="button">Update</button><button onclick="location.href='myItems.html'" class="button">Delete</button></td>
+          </tr>
+        </table>
+
+        <br><br><br>
+        <p class="legend">Legend : </p><img src="swap.jpeg" alt="Swap" height="18" width="18"><p class="legend">Swap offer available</p><img src="swapped.jpeg" alt="Swapped" height="18" width="18"><p class="legend">Already swapped</p>
+      </section>
+    </main>
+
+    <aside>
+      <nav>
+        <ul>
+          <li><br><a href="index.html">Home</a></li>
+          <li><br><a href="categories.html">Categories</a></li>
+          <li><br><a href="item.html">Store</a></li>
+          <li><br><a href="">About</a></li>
+          <li><br><a href="">Contact Us</a></li>
+
+        </ul>
+        <br><br><br><br><br>
+        <br><br><br><br><br>
+        <br><br><br>
+      </nav>
+    </aside>
+
+    <footer>
+      <p>&#169; Swap-o-meal</p>
+    </footer>
+
+
+  </body>
+</html>
