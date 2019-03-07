@@ -30,7 +30,7 @@ Here four HTML pages have been developed, according to the following specificati
   b.	Cross-browser checking for Firefox and Chrome  
 
 
-<b> Page Structure </b
+<b> Page Structure </b>
 
 All pages use the following foundational layout structure:<br>
 •	Full-width containers of sensible height for (1) page header area, (2) area for user specific navigation elements, (3) page footer area.
