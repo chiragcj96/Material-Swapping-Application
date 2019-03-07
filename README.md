@@ -33,7 +33,7 @@ Here four HTML pages have been developed, according to the following specificati
 <u> Page Structure
 
 All pages use the following foundational layout structure:
-•	Full-width containers of sensible height for (1) page header area, (2) area for user specific navigation elements, (3) page footer area.
+•	Full-width containers of sensible height for (1) page header area, (2) area for user specific navigation elements, (3) page footer area.\n
 •	Partial-width containers of the same height sensibly divided for (1) general site navigation and (2) main content area.
 
 <b> Page 1 – Home Page </b>
@@ -47,7 +47,7 @@ Common content elements described here (navigation, header, footer) also apply t
 •	Representative links for general site navigation (home, catalog, store, about, etc.).
   o	Categories link provide navigation to category page.
 
-Page 2 – Categories Page
+<b>Page 2 – Categories Page</b>
 
 This page provides the following content / functionality in addition to common content:-
 •	All Categories of items. 
@@ -55,7 +55,7 @@ This page provides the following content / functionality in addition to common c
 •	All item listings link to the same item page.
 •	Representative footer information (copyright, etc.) 
 
-Page 3 – Item Detail
+<b>Page 3 – Item Detail</b>
 
 This page provides the following content / functionality in addition to common content:-
 •	Picture of item. 
@@ -63,7 +63,7 @@ This page provides the following content / functionality in addition to common c
 •	Item detail description. 
 •	Button to add the item to items for swap list.
 
-Page 4 – My Books
+<b>Page 4 – My Books</b>
 
 This page provides the following content / functionality in addition to common content:-
 •	Main content container provides a table structure listing a representative item, rating average (stars > 0), and description. 
